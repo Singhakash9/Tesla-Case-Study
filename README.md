@@ -1,7 +1,5 @@
 # Case Study: Tesla’s Predictive Maintenance via Business Intelligence
 
-![Tesla](https://github.com/user-attachments/assets/f88f4f61-e3fa-405c-b346-cb24b82e2df0)
-
 <img src="https://github.com/user-attachments/assets/f88f4f61-e3fa-405c-b346-cb24b82e2df0" width="580" height="350" />
 
 ## Background
