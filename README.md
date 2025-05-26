@@ -42,5 +42,5 @@ Tesla’s use of predictive maintenance powered by business intelligence exempli
 ---
 
 **Author:** Akash Singh  
-**LinkedIn:** (https://www.linkedin.com/in/akash-singh-979745147) 
+**LinkedIn:** (https://www.linkedin.com/in/akash-singh-979745147)             
 **Email:** akash.singh@georgebrown.ca
