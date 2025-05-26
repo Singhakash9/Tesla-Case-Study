@@ -2,6 +2,8 @@
 
 ![Tesla](https://github.com/user-attachments/assets/f88f4f61-e3fa-405c-b346-cb24b82e2df0)
 
+<img src="https://github.com/user-attachments/assets/f88f4f61-e3fa-405c-b346-cb24b82e2df0" width="580" height="350" />
+
 ## Background
 Tesla, Inc., a pioneer in electric vehicles and sustainable energy, continually innovates to enhance customer experience and vehicle reliability. As a premium automotive brand, maintaining top-tier performance and minimizing maintenance-related disruptions is a key business priority.
 
